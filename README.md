@@ -1,4 +1,4 @@
-Windows Programming Course -UIT 2012
+Windows Programming Course - UIT 2012
 ---
 
 A replica of Total Commander - Final Project for Windows Programming course - UIT 2012
