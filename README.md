@@ -12,3 +12,7 @@ IDE: Visual Studio 2010
 Platform: Windows 7
 
 .NET Version: 2.0 and above
+
+**Some screenshots**
+
+![screenshot](https://i.imgur.com/ztIKxfl.png)
